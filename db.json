@@ -1,12 +1,12 @@
-{
-  [{
-    "id": 1,
-    "username": "Admin",
-    "user_img": "uploads/img1.png"
-},
-{
-    "id": 2,
-    "username": "Real_Person",
-    "user_img": "uploads/alien.png"
-}]
-}
+[
+  {
+      "id": 1,
+      "username": "Admin",
+      "user_img": "uploads/img1.png"
+  },
+  {
+      "id": 2,
+      "username": "Real_Person",
+      "user_img": "uploads/alien.png"
+  }
+]
